@@ -13,10 +13,15 @@ int main() {
 
 		cin >> n;
 
+		vector<int> nodes(n+1, -1);
+
 		for (int i=0; i<n; ++i) {
 			cin >> m;
 
-			
+			for (int j=0; j<m; ++j) {
+				
+			}	
+
 		}
 	}
 
