@@ -1,0 +1,5 @@
+https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/
+http://codeforces.com/blog/entry/53738
+
+==> Problemas
+https://www.codepit.io/#/contest/5a2b4bc6b21fdb001da71706/view
